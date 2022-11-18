@@ -1,0 +1,8 @@
+alias ll="ls -alF -h"
+alias cytoscape="~/Cytoscape_v*/cytoscape.sh"
+alias lsl="ls -l -h"
+alias v="nvim"
+alias upup="sudo apt-get update && sudo apt-get upgrade"
+alias alacritty="alacritty &>/dev/null &"
+alias :q="exit"
+alias l="echo \"LEAVE NOTHING FOR TOMORROW WHICH CAN BE DONE TODAY\""
